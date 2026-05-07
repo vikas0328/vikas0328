@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vikas Rangi and I'm happy to see here.
+# 👋 Hi there, I'm Vikas Rangi and I'm happy to see you here.
 Let's connect. 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-rangi)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vikasrangi0328@outlook.com)<br>
