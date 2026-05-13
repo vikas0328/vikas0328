@@ -32,10 +32,16 @@ Please explore my projects here. 👉 https://github.com/vikas0328?tab=repositor
 
 ## 💼 Projects
 
-- 🛵 **Food-Delivery-App-Dashboard-Project**  
-  - Built an interactive dashboard to track orders performance  
-  - Used DAX measures for KPIs and trend analysis  
-  - Focused on business insights and decision-making
+🛵 **Food-Delivery-App-Dashboard-Project**
+* Built an interactive dashboard to track orders performance  
+* Used DAX measures for KPIs and trend analysis  
+* Focused on business insights and decision-making
+
+🛒 **Online Grocery Store Sales Analysis | Power BI Dashboard**
+* Built an interactive Power BI dashboard using Excel data to analyze grocery sales, customer ratings, and shop performance.
+* Created KPI cards and DAX measures including Total Sales, Total Orders, Average Sales, Average Rating, and 5-Star Ratings.
+* Developed dynamic visuals using Power BI field parameters and interactive slicers for deeper business insights.
+* Performed data cleaning and transformation using Power Query and designed business-focused visual reports.
 
 🔹 *More projects coming soon...*  🔹
 
